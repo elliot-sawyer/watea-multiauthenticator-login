@@ -1,0 +1,30 @@
+{
+  "name": "elliot-sawyer/watea-multiauthenticator-login",
+  "description": "Support for multiple authenticators in the CWP Wātea theme",
+  "type": "silverstripe-vendormodule",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "silverstripe",
+    "theme",
+    "wātea",
+    "cwp",
+    "authenticator"
+  ],
+  "authors": [
+    {
+      "name": "Elliot Sawyer"
+    }
+  ],
+  "require": {
+  },
+  "extra": {
+    "installer-name": "watea-multiauthenticator-login",
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  },
+  "support": {
+    "issues": "https://github.com/elliot-sawyer/watea-multiauthenticator-login/issues",
+    "source": "https://github.com/elliot-sawyer/watea-multiauthenticator-login"
+  }
+}
